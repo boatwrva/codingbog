@@ -1,3 +1,4 @@
 testing text file for code bog    
 branch 1 again try
 line 3 added 
+line 4 added to branch 1
